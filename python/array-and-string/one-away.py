@@ -48,3 +48,5 @@ print(isOneAway("abple", "apble"))
 
 # Time complexity O(n)
 # Space complexity O(1)
+
+# can you do three check in single pass ?
