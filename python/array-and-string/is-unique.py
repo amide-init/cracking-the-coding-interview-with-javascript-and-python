@@ -1,3 +1,6 @@
+# implement an algorithms to determine if a string has all unique characters.
+# what if you cannot use additional data structure ?
+
 def  isUnique(str):
     ar = [0]*128
     for i in range(len(str)):
